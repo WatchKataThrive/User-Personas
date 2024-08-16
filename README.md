@@ -20,11 +20,8 @@ User personas are typically created during the **Define** stage of the design pr
 
 Below are examples of user personas that I have created for past projects. These personas illustrate how user data can be translated into actionable insights to guide design decisions.
 
-### Foodie Personas
-<img src="./FOODIE%20PERSONAS.PNG" alt="Foodie Personas" width="444px">
-
 ### Photo Booth Personas
-<img src="./PHOTO%20PERSONAS.PNG" alt="Photo Booth Personas" width="444px">
+<img src="./PHOTO%20PERSONAS2.PNG" alt="Photo Booth Personas" width="444px">
 
 ### Transit App Personas
 <img src="./TRANSIT%20PERSONAS.PNG" alt="Transit App Personas" width="444px">
