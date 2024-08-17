@@ -22,6 +22,3 @@ Below are examples of user personas that I have created for past projects. These
 
 ### Photo Booth Personas
 <img src="./PHOTO%20PERSONAS2.PNG" alt="Photo Booth Personas" width="444px">
-
-### Transit App Personas
-<img src="./TRANSIT%20PERSONAS.PNG" alt="Transit App Personas" width="444px">
